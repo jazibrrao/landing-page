@@ -99,7 +99,36 @@ button {
     font-style: italic;
     font-weight: 200;
     padding: 100px;
-    text-align: center;
+}
+
+.quote .text {
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.quote span {
+    float: right;
+    font-weight: 800;
+}
+
+.call-to-action {
+    font-size: 24px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    background-color: #3882f6;
+    margin: 5% 15% 5%;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.call-to-action .title {
+    font-weight: 800;
+}
+
+.call-to-action button {
+    border-color: #e5e7eb;
 }
 
 .footer {
