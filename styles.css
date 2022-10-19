@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap: 15px;
+    /* remove bullet points from li */
+    list-style: none;    
+}
+
+a {
+    /* remove underlines from links */
+    text-decoration: none;
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;   
+    align-items: center;
+}
+
+.info-header {
+    justify-self: center;
+    align-self: center;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+}
