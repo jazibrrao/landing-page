@@ -1,6 +1,11 @@
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.logo {
+    font-size: 24px;
 }
 
 ul {
