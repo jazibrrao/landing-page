@@ -1,4 +1,3 @@
-# landing-page
-# to be filled out later
+sample landing page designed according to desired output images
 
-# image sources:
+from scratch, mainly working with flexboxes and css alignment
